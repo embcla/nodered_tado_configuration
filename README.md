@@ -1,0 +1,1 @@
+# nodered_tado_configuration
